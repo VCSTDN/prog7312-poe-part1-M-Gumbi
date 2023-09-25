@@ -1,0 +1,41 @@
+# Library Call Number Sorting App
+
+This is a C# software application that helps librarians practice sorting call numbers for books on the shelves.
+
+## Features
+
+1. Choose from three tasks:
+   a. Replacing books (Implemented)
+   b. Identifying areas (Not yet implemented)
+   c. Finding call numbers (Not yet implemented)
+
+2. Replacing Books Task:
+   - Generates 10 random call numbers.
+   - Allows the user to reorder the call numbers.
+   - Checks whether the user's order is correct.
+
+## How to Compile and Run
+
+1. Clone or download the repository.
+2. Open the solution in Visual Studio.
+3. Build the solution.
+4. Run the application.
+
+## How to Use
+
+1. Launch the application.
+2. Choose the "Replacing books" task.
+3. Click the "Generate Call Numbers" button to generate random call numbers.
+4. Rearrange the call numbers in ascending order using the list box.
+5. Click the "Check Order" button to verify your arrangement.
+
+## Future Enhancements
+
+- Implement the other two tasks: Identifying areas and Finding call numbers.
+- Add gamification features to motivate users to practice call number sorting.
+
+Feel free to contribute and improve this application!
+
+## Contact
+
+For any inquiries or issues, please contact [your email address].
